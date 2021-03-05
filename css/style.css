@@ -67,7 +67,7 @@ body{
 }
 
 .i {
-    background-image:url(./img/arrowdown.png); 
+    background-image:url(/img/arrowdown.png); 
     width: 20px; 
     height: 20px; 
     display:inline-block;
@@ -75,7 +75,7 @@ body{
 }
 
 .about {
-    background: url(./img/bg1.png) center center / cover no-repeat;
+    background: url(/img/bg1.png) center center / cover no-repeat;
 }
 
 .about-title1,
@@ -133,7 +133,7 @@ body{
 }
 
 .whatico {
-    background-image:url(./img/minus.svg); 
+    background-image:url(/img/minus.svg); 
     width: 24px; 
     height: 24px; 
     display:inline-block;
@@ -179,7 +179,7 @@ body{
 }
 
 .contacts{
-    background: url(./img/bg3.png) center center / cover no-repeat;
+    background: url(/img/bg3.png) center center / cover no-repeat;
 }
 
 .feedback {
